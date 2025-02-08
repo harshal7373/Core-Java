@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="Teknowell Assignment"/>
+	<classpathentry kind="src" path="To Find Size of DataType"/>
+	<classpathentry kind="src" path="To find Datatype of an Variable"/>
+	<classpathentry kind="src" path="Static Local Instance Variable"/>
+	<classpathentry kind="src" path="Sequence of Static Instance Constructor"/>
+	<classpathentry kind="src" path="Date and Time API"/>
+	<classpathentry kind="src" path="Methods"/>
+	<classpathentry kind="src" path="User Input"/>
+	<classpathentry kind="src" path="Constructors"/>
+	<classpathentry kind="src" path="Operators"/>
+	<classpathentry kind="src" path="This Keywords"/>
+	<classpathentry kind="src" path="Finalize Method(Garbage Collection)"/>
+	<classpathentry kind="src" path="Control Flow Statements"/>
+	<classpathentry kind="src" path="OOPS"/>
+	<classpathentry kind="src" path="Arrays"/>
+	<classpathentry kind="src" path="Strings"/>
+	<classpathentry kind="src" path="Recursion Method"/>
+	<classpathentry kind="src" path="Exception Handling"/>
+	<classpathentry kind="src" path="MultiThreading"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
